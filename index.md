@@ -28,8 +28,8 @@ The following algorithms/methods are benchmarked.
 ## Instances
 
 There are two problem set in this benchmark, [Problem Set 1](https://github.com/ZedongPeng/ROA-RLPNLP-Benchmark/blob/main/problem_set/problem_set1.txt) and [Problem Set 2](https://github.com/ZedongPeng/ROA-RLPNLP-Benchmark/blob/main/problem_set/problem_set2.txt). 
-    - [Problem Set 1](https://github.com/ZedongPeng/ROA-RLPNLP-Benchmark/blob/main/problem_set/problem_set1.txt) constains 438 convex instances from MINLPLib, which have at least one discrete variable and at least one continuous variable. 
-    - [Problem Set 2](https://github.com/ZedongPeng/ROA-RLPNLP-Benchmark/blob/main/problem_set/problem_set2.txt) contains 135 highly nonlinear instances.
+- [Problem Set 1](https://github.com/ZedongPeng/ROA-RLPNLP-Benchmark/blob/main/problem_set/problem_set1.txt) constains 438 convex instances from MINLPLib, which have at least one discrete variable and at least one continuous variable. 
+- [Problem Set 2](https://github.com/ZedongPeng/ROA-RLPNLP-Benchmark/blob/main/problem_set/problem_set2.txt) contains 135 highly nonlinear instances.
 
 ## Paver Reports
 
