@@ -13,11 +13,11 @@ The PAVER reports used in the paper: "Alternative Regularizations for Outer-Appr
 
 ROA (Regularized Outer Approximation) method and RLP/NLP(Regularized LP/NLP based Branch & Bound).
 
-1. [ROA benchmark in Problem Set 1)
+1. [ROA benchmark in Problem Set 1](https://zedongpeng.github.io/ROA-RLPNLP-Benchmark/paver_reports/problem_set1/ROA)
 
-2. [ROA benchmark in Problem Set 1]
+2. [RLP/NLP benchmark in Problem Set 1](https://zedongpeng.github.io/ROA-RLPNLP-Benchmark/paver_reports/problem_set1/RLPNLP)
 
-3. [RLP/NLP benchmark in Problem Set 2]
+3. [ROA benchmark in Problem Set 2](https://zedongpeng.github.io/ROA-RLPNLP-Benchmark/paver_reports/problem_set2/ROA)
 
-4. [RLP/NLP benchmark in Problem Set 2]
+4. [RLP/NLP benchmark in Problem Set 2](https://zedongpeng.github.io/ROA-RLPNLP-Benchmark/paver_reports/problem_set2/RLPNLP)
 
