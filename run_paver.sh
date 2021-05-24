@@ -62,7 +62,7 @@ python3 ../Paver/src/paver/paver.py \
   --writehtml paver_reports/problem_set2/ROA \
   --extendedprofiles \
   --nocheckinstanceattr \
-  --instances problem_set2.txt 
+  --instances problem_set/problem_set2.txt 
 
 python3 ../Paver/src/paver/paver.py \
   ./trace_data/RLPNLP/*/*.trc \
@@ -77,4 +77,4 @@ python3 ../Paver/src/paver/paver.py \
   --writehtml paver_reports/problem_set2/RLPNLP \
   --extendedprofiles \
   --nocheckinstanceattr \
-  --instances problem_set2.txt 
+  --instances problem_set/problem_set2.txt 
