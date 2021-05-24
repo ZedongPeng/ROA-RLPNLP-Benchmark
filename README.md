@@ -1,4 +1,4 @@
-Benchmark result of the paper **Alternative Regularizations for Outer-Approximation Algorithms for Convex MINLP**
+Benchmark results of the paper **Alternative Regularizations for Outer-Approximation Algorithms for Convex MINLP**
 
 Please view the web page [here](https://zedongpeng.github.io/ROA-RLPNLP-Benchmark/).
 
@@ -10,6 +10,6 @@ The software [Paver 2](https://github.com/coin-or/Paver) is used to analyze the 
 
 - [run_paver.sh](https://github.com/ZedongPeng/ROA-RLPNLP-Benchmark/blob/main/run_paver.sh): bash code to obtain the paver report from trace files.
 
-- [problem_set](https://github.com/ZedongPeng/ROA-RLPNLP-Benchmark/problem_set): folder of problem_set1.txt and problem_set2.txt
+- [problem_set](https://github.com/ZedongPeng/ROA-RLPNLP-Benchmark/problem_set): contains the list of problem set 1 and problem set 2
 
 - [paver_reports](https://github.com/ZedongPeng/ROA-RLPNLP-Benchmark/tree/main/paver_reports): paver reports of ROA and RLP/NLP on problem set 1 and problem set 2.
