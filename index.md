@@ -1,3 +1,14 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 
 ## Description
 
@@ -9,21 +20,21 @@ The PAVER reports used in the paper: **"Alternative Regularizations for Outer-Ap
 The following algorithms/methods are benchmarked.
 
 - OA
-- ROA-\(\ell_1\)
-- ROA-\(\ell_2^2\)
-- ROA-\(\ell_\infty\)
-- ROA-\(\mathcal{L}_2\)
-- ROA-\(\nabla_2 \mathcal{L}\)
-- ROA-\(\mathcal{L}_1 /\ell_2^2\)
-- ROA-\(\mathcal{L}_1\)
+- ROA-$\ell_1$
+- ROA-$\ell_2^2$
+- ROA-$\ell_\infty$
+- ROA-$\mathcal{L}_2$
+- ROA-$\nabla_2 \mathcal{L}$
+- ROA-$\mathcal{L}_1 /\ell_2^2$
+- ROA-$\mathcal{L}_1$
 - LP/NLP
-- RLP/NLP-\(\ell_1\)
-- RLP/NLP-\(\ell_2^2\)
-- RLP/NLP-\(\ell_\infty\)
-- RLP/NLP-\(\mathcal{L}_2\)
-- RLP/NLP-\(\nabla_2 \mathcal{L}\)
-- RLP/NLP-\(\mathcal{L}_1 /\ell_2^2\)
-- RLP/NLP-\(\mathcal{L}_1\)
+- RLP/NLP-$\ell_1$
+- RLP/NLP-$\ell_2^2$
+- RLP/NLP-$\ell_\infty$
+- RLP/NLP-$\mathcal{L}_2$
+- RLP/NLP-$\nabla_2 \mathcal{L}$
+- RLP/NLP-$\mathcal{L}_1 /\ell_2^2$
+- RLP/NLP-$\mathcal{L}_1$
 
 ## Instances
 
